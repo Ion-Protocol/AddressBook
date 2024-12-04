@@ -1,0 +1,123 @@
+{
+    "eth": {
+        "token": {
+            "WETH": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "WEETH": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+            "apxETH": "0x9Ba021B0a9b958B5E75cE9f6dff97C7eE52cb3E6",
+            "pxETH": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+            "pufETH": "0xD9A442856C234a39a81a089C06451EBAa4306a72",
+            "wstETH": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+            "stETH": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+            "frxETH": "0x5E8422345238F34275888049021821E8E08CAa1f",
+            "sfrxETH": "0xac3E018457B222d93114458476f3E3416Abbe38F",
+            "pzETH": "0x8c9532a60E0E7C6BbD2B2c1303F63aCE1c3E9811",
+            "rswETH": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+            "swETH": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+            "ezETH": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+            "PENDLE": "0x808507121b80c02388fad14726482e061b8da827",
+            "CAKE": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+        },
+        "renzo": {
+            "pzETHRateProvider": "0x34406A8Ee75B5af34F8920D1960AC6a5B33A47b6",
+            "ezETHRateProvider": "0x3239396B740cD6BBABb42196A03f7B77fA7102C9"
+        },
+        "curve": {
+            "WEETH_WETH": "0xDB74dfDD3BB46bE8Ce6C33dC9D82777BCFc3dEd5",
+            "pufETH_wstETH": "0xEEda34A377dD0ca676b9511EE1324974fA8d980D",
+            "pufETH_WETH": "0x39F5b252dE249790fAEd0C2F05aBead56D2088e1",
+            "ETH_stETH": "0xDC24316b9AE028F1497c275EB9192a3Ea0f67022",
+            "pxETH_stETH": "0x6951bDC4734b9f7F3E1B74afeBC670c736A0EDB6",
+            "pxETH_WETH": "0xC8Eb2Cf2f792F77AF0Cd9e203305a585E588179D",
+            "frxETH_WETH": "0x9c3B46C0Ceb5B9e304FCd6D88Fc50f7DD24B31Bc",
+            "WETH_rsWETH": "0xeE04382c4cA6c450213923fE0f0daB19b0ff3939"
+        },
+        "pancakeswap": {
+            "MASTER_CHEF": "0x556B9306565093C855AEA9AE92A594704c2Cd59e",
+            "CAKE_NFT_MANAGER": "0x46A15B0b27311cedF172AB29E4f4766fbE7F4364",
+            "rswETH_ETH_POOL": "0x7B94A5622035207d3f527d236d47B7714Ee0acBa",
+            "PCS_ROUTER": "0x1b81D678ffb9C0263b24A97847620C99d213eB14",
+            "CAKE_WETH_rsWETH": "0x7B94A5622035207d3f527d236d47B7714Ee0acBa"
+        },
+        "uniswap":{
+            "ROUTER": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+        },
+        "pendle": {
+            "PENDLE_ROUTER": "0x888888888889758F76e7103c6CbF23ABbF58F946",
+            "PENDLE_LP_ORACLE": "0x9a9Fa8338dd5E5B2188006f1Cd2Ef26d921650C2",
+            "swETH_MARKET": "0x0e1C5509B503358eA1Dac119C1D413e28Cc4b303"
+        },
+        "nucleus": {
+            "ssETH": {
+                "boring_vault": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+                "manager": "0xCaF6FC6BAb79A32a1169Cb6A35bFa1d6B8551Bd2",
+                "accountant": "0x6035832F65b0cf20064681505b73A6dE307a04cB",
+                "teller": "0x97D0B97A9FA017f8aD2565a5c6AED5745f3918b9",
+                "roles_authority": "0x6cDD5833285bf954957a9483b869B36BD5A26277"
+            },
+            "seiyanETH": {
+                "boring_vault": "0x9fAaEA2CDd810b21594E54309DC847842Ae301Ce",
+                "accountant": "0x24152894Decc7384b05E8907D6aDAdD82c176499",
+                "lz_teller": "0xB52C7d88F0514796877B04cF945E56cC4C66CD05",
+                "manager": "0x9B99d4584a3858C639F94fE055DB9E94017fE009",
+                "roles_authority": "0xEfD9931eD35820C88196351E132421f5917736bE"
+            },
+            "bobaETH": {
+                "boring_vault": "0x52E4d8989fa8b3E1C06696e7b16DEf5d7707A0d1",
+                "accountant": "0x78cba912751dB70CBd77C1111A4d1aDD077AD99A",
+                "opteller": "0xbf145F08d40EdbE4A7FB9524480a99716C858553",
+                "manager": "0x678ABA2b9d76DC40c64EBd90DD2394603D6f6e6a",
+                "roles_authority": "0xC94908650DCa066657a582D6B88E9Dc51fB0BFFB"
+            },
+            "frxtlETH": {
+                "boring_vault": "0x647Ea8b492832e9D99A06DE8cc9A05e58FcCdF02",
+                "manager": "0x67C43FCdae4599ef1fBfc04D92026a8d185Ca4d6",
+                "accountant": "0x8F1f97624dDdd8a3949d5b91f94b127BCC5F1F84",
+                "lz_teller": "0xD9395622c8Ec792D1cb6F39B562095fDa240BA57",
+                "roles_authority": "0xfCd058158e27CF75400e854e2c969bCeB4E75F75"
+            },
+            "rswBTC_old": {
+                "boring_vault": "0x215DC1cC32d9d08a0081e55E55895C8Cf006839a",
+                "manager": "0xa779dafed197D496939b06b7906fe99C7eEB34cD",
+                "accountant": "0xf242ab602CbF29Cf9B5f4c3d90CA6EeF947ba6F1",
+                "teller": "0x83EDE55dc738d4C2e65c4B55172Fbe3e14D83a4E",
+                "roles_authority": "0xC90a97451c4C7550812694DE1DADeCc87bcAE8c7"
+            },
+            "tETH": {
+                "boring_vault": "0x19e099B7aEd41FA52718D780dDA74678113C0b32",
+                "manager": "0xf875dEe4e500ab850369fa9c9F6a8296B912c598",
+                "accountant": "0x8c1902A5996978F2628558DD93d309F7e3926dfD",
+                "teller": "0x6Ae187EacF40ebd1e571a655dB92A1f47452E0Bf",
+                "roles_authority": "0xa9220c99Bf3620Ac7e6F0Ff1cbde410635Fb87Fa",
+                "warp_route_wrapper": "0x56Db310194Afd0Eb6A2eC7Dc463d4c727b48CAE2"
+            },
+            "earnETH": {
+                "boring_vault": "0x9Ed15383940CC380fAEF0a75edacE507cC775f22",
+                "manager": "0x69FC700226E9e12D8c5E46a4b50A78efB64F50C0",
+                "accountant": "0x411c78BC8c36c3c66784514f28c56209e1DF2755",
+                "teller": "0x685aDb4797fb38D4Fc4a69750aa048B398160429",
+                "roles_authority": "0x1F5dddF627C3796a589c6271b36A570f18d3a016"
+            },
+            "FETH": {
+                "boring_vault": "0x6C587402dC88Ef187670F744dFB9d6a09Ff7fd76",
+                "manager": "0xb010a69AC77C3ef3Ee4B6Fe58326B2579882BF67",
+                "accountant": "0x8ca1d13De3039142186aA57656Adbe0fD2620D2B",
+                "teller": "0xd567b6D8e9C95d8a29e60018156becaBDC63E851",
+                "roles_authority": "0x1f10E54Fe0223752B3DcFDfD5A3377A93dd724B3"
+            },
+            "unifiETH": {
+                "boring_vault": "0x196ead472583bc1e9af7a05f860d9857e1bd3dcc",
+                "manager": "0xe31fb4471dce722fe79f432e7f4b59417190ad98",
+                "accountant": "0xa9fb7e2922216debe3fd5e1bbe7591ee446dc21c",
+                "teller": "0x08eb2eccdf6ebd7aba601791f23ec5b5f68a1d53",
+                "roles_authority": "0x11eb44ddcc14b8ec4b4b9d6b3324c1ee00179a7d"
+            },
+            "earnBTC": {
+                "boring_vault": "0x66E47E6957B85Cf62564610B76dD206BB04d831a",
+                "manager": "0x6cEA0a42a44cABcc42b1Ec31c3D714DcAAE91e06",
+                "accountant": "0x6bBf58f1A95D22f497fD2e7f640fAE94481b1A08",
+                "teller": "0x1DA9ceFA0F46b2087b2cF7dbF9E62Dd94076Ece1",
+                "roles_authority": "0x05FAE28773ab9dAfD5C8997AcEe5099fa0D1f219"
+            }
+        }
+    }
+}
